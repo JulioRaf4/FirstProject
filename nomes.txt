@@ -1,0 +1,10 @@
+Professor
+Medico
+Eletricista
+Encanador 
+Digitador
+Diretor
+Policial
+Escriba
+Juiz
+Advogado
