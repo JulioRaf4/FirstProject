@@ -28,7 +28,7 @@ def jogar():
     elif dificuldade == 3:
         jogadas = 5
         print("[MODO HARD ESCOLHIDO]")   
-
+        
     while jogadas > tentativa :
         print("Faça sua escolha:", end=" ")
         escolha = int(input())
