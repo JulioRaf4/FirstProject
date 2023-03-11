@@ -13,5 +13,5 @@ if jogo == 1:
     Forca.jogar()
 
 elif jogo == 2:
-    print("JOGANDO ADIVINHAÇÃO")    
+    print("JOGANDO ADIVINHAÇÃO")
     advinhação.jogar()
