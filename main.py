@@ -1,5 +1,5 @@
-import Forca
-import advinhação
+import games.Forca as Forca
+import games.advinhação as advinhação
 
 print("*********************************")
 print("*******ESCOLHA SEU JOGO!*********")
