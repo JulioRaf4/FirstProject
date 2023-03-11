@@ -5,7 +5,7 @@ print("*********************************")
 print("*******ESCOLHA SEU JOGO!*********")
 print("*********************************")
 
-print("(1) PARA FORCA (2)PARA ADVINHAÇÃO")
+print("[1] PARA FORCA [2] PARA ADVINHAÇÃO")
 jogo = int(input())
 
 if jogo == 1:
