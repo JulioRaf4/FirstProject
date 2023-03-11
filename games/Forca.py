@@ -6,7 +6,6 @@ def jogar():
     mensagem_bem_vindo()
 
     palavra_secreta = escolhe_palavra_secreta()
-
     letras_acertadas = imprime_letras_acertadas(palavra_secreta)
     erros = 0
 
